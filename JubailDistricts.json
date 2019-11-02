@@ -1,93 +1,93 @@
 [
   {
-    id:1,
-    zipCode:35716,
-    nameE: "Yanbu",
-    nameA: "ينبع"
+    "id":1,
+    "zipCode":35716,
+    "nameE": "Yanbu",
+    "nameA": "ينبع"
   },{
-    id:2,
-    zipCode:35716,
-    nameE: "Ash Shati",
-    nameA: "الشاطئ"
+    "id":2,
+    "zipCode":35716,
+    "nameE": "Ash Shati",
+    "nameA": "الشاطئ"
   },{
-    id:3,
-    zipCode:35716,
-    nameE: "ِAl Lualu",
-    nameA: "اللولو"
+    "id":3,
+    "zipCode":35716,
+    "nameE": "ِAl Lualu",
+    "nameA": "اللولو"
   },{
-    id:4,
-    zipCode:35718,
-    nameE: "Al Huwaylat",
-    nameA: "الحويلات"
+    "id":4,
+    "zipCode":35718,
+    "nameE": "Al Huwaylat",
+    "nameA": "الحويلات"
   },{
-    id:5,
-    zipCode:35718,
-    nameE: "Al Khalij",
-    nameA: "الخليج"
+    "id":5,
+    "zipCode":35718,
+    "nameE": "Al Khalij",
+    "nameA": "الخليج"
   },{
-    id:6,
-    zipCode:35811,
-    nameE: "Sudayr",
-    nameA: "سدير"
+    "id":6,
+    "zipCode":35811,
+    "nameE": "Sudayr",
+    "nameA": "سدير"
   },{
-    id:7,
-    zipCode:35811,
-    nameE: "Al Ahsa",
-    nameA: "الأحساء"
+    "id":7,
+    "zipCode":35811,
+    "nameE": "Al Ahsa",
+    "nameA": "الأحساء"
   },{
-    id:8,
-    zipCode:35811,
-    nameE: "Al Fayha",
-    nameA: "الفيحاء"
+    "id":8,
+    "zipCode":35811,
+    "nameE": "Al Fayha",
+    "nameA": "الفيحاء"
   },{
-    id:9,
-    zipCode:35812,
-    nameE: "Al Firdaws",
-    nameA: "الفردوس"
+    "id":9,
+    "zipCode":35812,
+    "nameE": "Al Firdaws",
+    "nameA": "الفردوس"
   },{
-    id:10,
-    zipCode:35821,
-    nameE: "Al Matrafiyah",
-    nameA: "المطرفية"
+    "id":10,
+    "zipCode":35821,
+    "nameE": "Al Matrafiyah",
+    "nameA": "المطرفية"
   },{
-    id:11,
-    zipCode:35816,
-    nameE: "Al Farouq",
-    nameA: "الفاروق"
+    "id":11,
+    "zipCode":35816,
+    "nameE": "Al Farouq",
+    "nameA": "الفاروق"
   },{
-    id:12,
-    zipCode:35815,
-    nameE: "Al Andalus",
-    nameA: "الأندلس"
+    "id":12,
+    "zipCode":35815,
+    "nameE": "Al Andalus",
+    "nameA": "الأندلس"
   },{
-    id:13,
-    zipCode:35815,
-    nameE: "Al Quds",
-    nameA: "القدس"
+    "id":13,
+    "zipCode":35815,
+    "nameE": "Al Quds",
+    "nameA": "القدس"
   },{
-    id:14,
-    zipCode:35815,
-    nameE: "Najd",
-    nameA: "نجد"
+    "id":14,
+    "zipCode":35815,
+    "nameE": "Najd",
+    "nameA": "نجد"
   },{
-    id:15,
-    zipCode:35815,
-    nameE: "Makkah",
-    nameA: "مكة"
+    "id":15,
+    "zipCode":35815,
+    "nameE": "Makkah",
+    "nameA": "مكة"
   },{
-    id:16,
-    zipCode:35814,
-    nameE: "Al Hijaz",
-    nameA: "الحجاز"
+    "id":16,
+    "zipCode":35814,
+    "nameE": "Al Hijaz",
+    "nameA": "الحجاز"
   },{
-    id:17,
-    zipCode:35813,
-    nameE: "Darin",
-    nameA: "دارين"
+    "id":17,
+    "zipCode":35813,
+    "nameE": "Darin",
+    "nameA": "دارين"
   },{
-    id:18,
-    zipCode:35812,
-    nameE: "Jalmudah",
-    nameA: "جلمودة"
+    "id":18,
+    "zipCode":35812,
+    "nameE": "Jalmudah",
+    "nameA": "جلمودة"
   }
 ]
