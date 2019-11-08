@@ -3,91 +3,127 @@
     "id":1,
     "zipCode":35716,
     "nameE": "Yanbu",
-    "nameA": "ينبع"
+    "nameA": "ينبع",
+    "lon":27.0802128,
+    "lan":49.5714979
   },{
     "id":2,
     "zipCode":35716,
     "nameE": "Ash Shati",
-    "nameA": "الشاطئ"
+    "nameA": "الشاطئ",
+    "lon":27.0802128,
+    "lan":49.5714979
   },{
     "id":3,
     "zipCode":35716,
     "nameE": "ِAl Lualu",
-    "nameA": "اللولو"
+    "nameA": "اللولو",
+    "lon":27.080251,
+    "lan":49.5714979
   },{
     "id":4,
     "zipCode":35718,
     "nameE": "Al Huwaylat",
-    "nameA": "الحويلات"
+    "nameA": "الحويلات",
+    "lon":27.1042638,
+    "lan":49.5491148
   },{
     "id":5,
     "zipCode":35718,
     "nameE": "Al Khalij",
-    "nameA": "الخليج"
+    "nameA": "الخليج",
+    "lon":27.1042638,
+    "lan":49.5491148
   },{
     "id":6,
     "zipCode":35811,
     "nameE": "Sudayr",
-    "nameA": "سدير"
+    "nameA": "سدير",
+    "lon":27.1263375,
+    "lan":49.5375895
   },{
     "id":7,
     "zipCode":35811,
     "nameE": "Al Ahsa",
-    "nameA": "الأحساء"
+    "nameA": "الأحساء",
+    "lon":27.1263375,
+    "lan":49.5375895
   },{
     "id":8,
     "zipCode":35811,
     "nameE": "Al Fayha",
-    "nameA": "الفيحاء"
+    "nameA": "الفيحاء",
+    "lon":27.1263375,
+    "lan":49.5375895
   },{
     "id":9,
     "zipCode":35812,
     "nameE": "Al Firdaws",
-    "nameA": "الفردوس"
+    "nameA": "الفردوس",
+    "lon":27.1055112,
+    "lan":49.5714979
   },{
     "id":10,
     "zipCode":35821,
     "nameE": "Al Matrafiyah",
-    "nameA": "المطرفية"
+    "nameA": "المطرفية",
+    "lon":27.080251,
+    "lan":49.533813
   },{
     "id":11,
     "zipCode":35816,
     "nameE": "Al Farouq",
-    "nameA": "الفاروق"
+    "nameA": "الفاروق",
+    "lon":27.125555,
+    "lan":49.5043462
   },{
     "id":12,
     "zipCode":35815,
     "nameE": "Al Andalus",
-    "nameA": "الأندلس"
+    "nameA": "الأندلس",
+    "lon":27.1396726,
+    "lan":49.525857
   },{
     "id":13,
     "zipCode":35815,
     "nameE": "Al Quds",
-    "nameA": "القدس"
+    "nameA": "القدس",
+    "lon":27.1396726,
+    "lan":49.525857
   },{
     "id":14,
     "zipCode":35815,
     "nameE": "Najd",
-    "nameA": "نجد"
+    "nameA": "نجد",
+    "lon":27.1396726,
+    "lan":49.525857
   },{
     "id":15,
     "zipCode":35815,
     "nameE": "Makkah",
-    "nameA": "مكة"
+    "nameA": "مكة",
+    "lon":27.1396726,
+    "lan":49.525857
   },{
     "id":16,
     "zipCode":35814,
     "nameE": "Al Hijaz",
-    "nameA": "الحجاز"
+    "nameA": "الحجاز",
+    "lon":27.1553968,
+    "lan":49.5546001
   },{
     "id":17,
     "zipCode":35813,
     "nameE": "Darin",
-    "nameA": "دارين"
+    "nameA": "دارين",
+    "lon":27.1738768,
+    "lan":49.5678984
   },{
     "id":18,
     "zipCode":35812,
     "nameE": "Jalmudah",
-    "nameA": "جلمودة"
+    "nameA": "جلمودة",
+    "lon":27.1055112,
+    "lan":49.533813
   }
 ]
